@@ -91,7 +91,7 @@ input, select, textarea {
 		background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
 		background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
 		background-image: linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
-		background-color: #FB76C1;
+		background-color: #FF1493;
 		background-position: top left, top left;
 		background-repeat: repeat-x, repeat;
 		background-size: 100% 30em, auto;
@@ -179,11 +179,11 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-top: solid 1px #eee;
+		border-top: solid 1px #F69A97;
 	}
 
 	blockquote {
-		border-left: solid 0.5em #eee;
+		border-left: solid 0.5em #F69A97;
 		padding: 1em 0 1em 2em;
 		font-style: italic;
 	}
@@ -1503,7 +1503,7 @@ input, select, textarea {
 		display: block;
 		width: 100%;
 		border-radius: 8px;
-		border: solid 1px #eee;
+		border: solid 1px #F69A97;
 	}
 
 		form input[type="text"]:focus,
@@ -1677,7 +1677,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #f1f1f1;
+			background: #F2BF6C;
 			background: rgba(0, 0, 0, 0.05);
 			color: #444;
 		}
@@ -1687,7 +1687,7 @@ input, select, textarea {
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background: #e8e8e8;
+				background: #F2BF6C;
 				background: rgba(0, 0, 0, 0.085);
 			}
 
@@ -1764,7 +1764,7 @@ input, select, textarea {
 	}
 
 		ul.menu li {
-			border-left: solid 1px #e0e0e0;
+			border-left: solid 1px #deaaff;
 			display: inline-block;
 			padding: 0 0 0 0.75em;
 			margin: 0 0 0 0.75em;
@@ -1779,7 +1779,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #E85C90;
+		background: #ffafcc;
 		border-radius: 6px;
 		box-shadow: 0px 3px 0px 0px rgba(0, 0, 0, 0.05);
 		padding: 2em;
