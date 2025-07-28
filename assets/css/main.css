@@ -91,13 +91,13 @@ input, select, textarea {
 		background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
 		background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
 		background-image: linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
-		background-color: #f7f7f7;
+		background-color: #FF1493;
 		background-position: top left, top left;
 		background-repeat: repeat-x, repeat;
 		background-size: 100% 30em, auto;
 		font-family: 'Open Sans', sans-serif;
 		font-size: 13pt;
-		color: #696969;
+		color: 	#000000;
 		font-weight: 300;
 		line-height: 2.25em;
 	}
@@ -122,7 +122,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #0090c5;
+		color: #836FFF;
 		text-decoration: underline;
 	}
 
@@ -1511,7 +1511,7 @@ input, select, textarea {
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			border-color: #0090c5;
+			border-color: #836FFF;
 		}
 
 	form input[type="text"],
@@ -1634,7 +1634,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		background: #0090c5;
+		background: #836FFF;
 		color: #fff;
 		text-decoration: none;
 		border-radius: 6px;
